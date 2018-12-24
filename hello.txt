@@ -1,4 +1,5 @@
 Other file
 insert
 edited2
+edited1
 remove
