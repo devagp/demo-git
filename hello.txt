@@ -2,5 +2,5 @@ Other file
 insert is now changed in staging
 Add other
 edited2
-edited1
+edited1 in staging
 remove
