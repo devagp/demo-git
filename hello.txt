@@ -1,4 +1,6 @@
 Other file
 insert
+Add other
+edited2
 edited1
 remove
