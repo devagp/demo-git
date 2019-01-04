@@ -1,5 +1,5 @@
 Other file
-insert
+insert is changed in master
 Add other
 edited2
 edited1
