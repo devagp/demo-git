@@ -1,6 +1,6 @@
 Other file
-insert is now changed in staging
+insert is now changed in feature
 Add other
-edited2
-edited1 in staging
+edited2 in feature
+edited1 in feature
 remove
